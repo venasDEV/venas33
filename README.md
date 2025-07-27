@@ -13,7 +13,7 @@
 - 🎯 Objetivo: Conseguir minha **primeira oportunidade como desenvolvedor Frontend**
 - 🎲 Fato interessante: Adoro transformar designs em código e sempre buscando a perfeição em cada pixel 💻
 
----
+--
 
 ### 🌐 Minhas redes
 
